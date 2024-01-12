@@ -1,26 +1,27 @@
+# Jonatan Chaverri
+
 ### Hi there 👋
 
-I'm Jonatan Chaverri, a Senior Software Developer with a fervor for open source collaboration and a passion for crafting elegant solutions to complex problems. I find joy in the art of coding and the thrill of building software that makes a positive impact.
+I'm Jonatan Chaverri, a passionate software engineer with a solid foundation in software engineering and over 5 years of hands-on experience in the industry. 🚀
 
-💡 Problem Solver Extraordinaire 💡
+🎓 I hold a degree in Software Engineering, equipping me with a strong theoretical background that complements my practical expertise. My journey in the world of code has been a thrilling adventure, from mastering algorithms to architecting robust solutions.
 
-As a Senior Software Developer, my days are filled with deciphering intricate puzzles and architecting solutions that stand the test of time. I find solace in the logic of algorithms and the elegance of well-designed systems. My proficiency spans a multitude of languages and frameworks, and I'm always eager to explore new horizons to stay on the cutting edge of technology.
+💻 In my 5 years of professional experience, I've had the privilege of contributing to diverse projects and collaborating with talented teams. My areas of expertise span across Python, Golang, C sharp, Javascript, MongoDB, Docker, Kubernetes, and I thrive in dynamic environments where innovation and problem-solving are at the forefront.
 
-🤝 Collaboration Maven 🤝
+🔧 Whether it's crafting elegant code, optimizing performance, or tackling challenging bugs, I'm dedicated to delivering high-quality software solutions. I am always eager to explore new technologies and methodologies, staying on the cutting edge of the ever-evolving tech landscape.
 
-In the world of coding, collaboration is key. I relish the opportunity to work with like-minded individuals, learning from their perspectives and weaving diverse ideas into the fabric of our projects. My GitHub it's a collaborative canvas where developers come together to create something greater than the sum of its parts.
-
-🔍 Continuous Learner & Mentor 🔍
-
-The tech world is ever-evolving, and I embrace the constant challenge of staying ahead of the curve. I'm a perpetual student, always seeking to deepen my understanding and refine my craft. In this journey, I also find fulfillment in mentoring aspiring developers, sharing the knowledge that has been graciously passed down to me.
-
-🌟 Beyond the Code 🌟
-
-When I'm not immersed in lines of code, you might find me exploring the great outdoors, traveling, enjoying a cup of coffee with a good book, or tinkering with the latest gadgets. 
+🌐 Outside the realm of coding, you might find me exploring the outside, traveling, drinking a cup of coffee with a good book, or playing the guitar. I believe in the power of open-source collaboration and the continuous pursuit of knowledge
 
 
 ## 🛠️ Languages and tools
 
+<img align="left" style="padding-right:10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" style="padding-right:10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="left" style="padding-right:10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" style="padding-right:10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" style="padding-right:10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" style="padding-right:10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" style="padding-right:10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <!--
 **Jonatan-Chaverri/Jonatan-Chaverri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
