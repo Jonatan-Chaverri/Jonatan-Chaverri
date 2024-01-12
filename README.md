@@ -6,7 +6,7 @@ I'm Jonatan Chaverri, a passionate software engineer with a solid foundation in 
 
 🎓 I hold a degree in Software Engineering, equipping me with a strong theoretical background that complements my practical expertise. My journey in the world of code has been a thrilling adventure, from mastering algorithms to architecting robust solutions.
 
-💻 In my 5 years of professional experience, I've had the privilege of contributing to diverse projects and collaborating with talented teams. My areas of expertise span across Python, Golang, C sharp, Javascript, MongoDB, Docker, Kubernetes, and I thrive in dynamic environments where innovation and problem-solving are at the forefront.
+💻 In my 5 years of professional experience, I've had the privilege of contributing to diverse projects and collaborating with talented teams in companies like IBM, HPE and most recently Kyndryl. My areas of expertise span across Python, Golang, C sharp, Javascript, MongoDB, Docker, Kubernetes, and I thrive in dynamic environments where innovation and problem-solving are at the forefront.
 
 🔧 Whether it's crafting elegant code, optimizing performance, or tackling challenging bugs, I'm dedicated to delivering high-quality software solutions. I am always eager to explore new technologies and methodologies, staying on the cutting edge of the ever-evolving tech landscape.
 
