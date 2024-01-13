@@ -26,6 +26,7 @@ I'm Jonatan Chaverri, a passionate software engineer with a solid foundation in 
 <img align="left" style="padding-right:10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
 <img align="left" style="padding-right:10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
 <img align="left" style="padding-right:10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" />
+<img align="left" style="padding-right:10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="GIT" />
 
 <!--
 **Jonatan-Chaverri/Jonatan-Chaverri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
