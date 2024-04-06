@@ -8,7 +8,7 @@ I'm Jonatan Chaverri, a passionate software engineer with a solid foundation in 
 
 💻 In my 5 years of professional experience, I've had the privilege of contributing to diverse projects and collaborating with talented teams in companies like IBM, HPE and most recently Kyndryl. My areas of expertise span across Python, Rust, C sharp, Javascript, MongoDB, Docker, Kubernetes, and I thrive in dynamic environments where innovation and problem-solving are at the forefront.
 
-I'm also a web3 enthusiast, have some experience contributing to web3 projects like Dojo, the game engine for starknet. Also love to participate in hacker houses and meet a lot of interesting people to share ideas with.
+I'm also a web3 enthusiast, have some experience contributing to web3 projects like Dojo, the game engine for starknet. Love to participate in hacker houses and meet a lot of interesting people to share ideas with.
 
 🌐 Outside the realm of coding, you might find me exploring the outside, traveling, drinking a cup of coffee with a good book, or playing the guitar. I believe in the power of open-source collaboration and the continuous pursuit of knowledge
 
